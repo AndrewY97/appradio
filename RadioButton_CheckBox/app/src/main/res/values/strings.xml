@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Conversor</string>
+
+    <string name="txt_numero">Ingresa un Numero</string>
+
+    <string name="rd_Decimal">Decimal</string>
+    <string name="rd_Binario">Binario</string>
+    <string name="rd_Octal">Octal</string>
+    <string name="rd_Hexadecimal">Hexadecimal</string>
+
+    <string name="ck_Decimal">Decimal</string>
+    <string name="ck_Binario">Binario</string>
+    <string name="ck_Octal">Octal</string>
+    <string name="ck_Hexadecimal">Hexadecimal</string>
+
+    <string name="btn_convertir">Convertir</string>
+
+
+</resources>
